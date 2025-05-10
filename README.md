@@ -4,9 +4,10 @@ TypeScript and React based android application to track, manage or plan your can
 
 ## 1. To-dos
 
-[] Create Environments
-[] List Environments
-[] Create Plants
-[] List Plants 
-[] Assign Plants to Environments
-[] List Plants by Environment
+- [ ] Create Environments
+- [ ] List Environments
+- [ ] Create Plants
+- [ ] List Plants 
+- [ ] Assign Plants to Environments
+- [ ] List Plants by Environment
+- [ ] Add Photos to Plants
